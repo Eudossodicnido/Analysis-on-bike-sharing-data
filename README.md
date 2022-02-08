@@ -16,3 +16,12 @@ In order to do so the question we are trying to answer is, specifically, how cas
 
 ## 2. Prepare
 
+
+## 3. Process
+
+## 4. Analyze
+
+## 5. Share
+
+
+## 6. Act
