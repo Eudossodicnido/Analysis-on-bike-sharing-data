@@ -19,6 +19,8 @@ In order to do so the question we are trying to answer is, specifically, how cas
 
 ## 3. Process
 
+Several blanks, replaced with null (which appear from march), several strange times and tests
+
 ## 4. Analyze
 
 ## 5. Share
