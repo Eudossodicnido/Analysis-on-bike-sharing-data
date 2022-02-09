@@ -24,7 +24,7 @@ I will use SQL Server to (which makes importing csv and excel files easy) clean 
 Data consists of different csv files. They contain 13 columns related to bike trips such as starting and ending stations, memebrship status, etc.
 Before importing files into SQL Server, I made sure that data are generally consistent. There however some inconsistencies:
 . departure and arrival data 
-Several blanks, replaced with null (which appear from march), several strange times and tests
+Several blanks, replaced with null (which appear from march), several strange times and tests 
 
 ## 4. Analyze
 
