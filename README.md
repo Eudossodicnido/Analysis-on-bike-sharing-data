@@ -16,7 +16,7 @@ In order to do so the question we are trying to answer is, specifically, how cas
 
 ## 2. Prepare
 I'm using all the data for the 12 months of year 2020 ( from 01/01 until 31/12). Data is stored in CSV file available [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
-The data is public and made available by Motivate International Inc. under this [this license] (https://ride.divvybikes.com/data-license-agreement).
+The data is public and made available by Motivate International Inc. under this [this license](https://ride.divvybikes.com/data-license-agreement).
 
 ## 3. Process
 
