@@ -23,8 +23,10 @@ The privacy of the riders is safeguard as there are no IDs and it's not possible
 I will use SQL Server to (which makes importing csv and excel files easy) clean the data and make them ready for analysis. 
 Data consists of different csv files. They contain 13 columns related to bike trips such as starting and ending stations, memebrship status, etc.
 Before importing files into SQL Server, I made sure that data are generally consistent. There however some inconsistencies:
-. departure and arrival data 
-Several blanks, replaced with null (which appear from march), several strange times and tests 
+
+- departure and arrival times data with negative values
+- several values that pertain to test 
+- several blanks  (which start to appear from march, so the company might want to inquire why)
 
 ## 4. Analyze
 
