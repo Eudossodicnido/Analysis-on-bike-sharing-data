@@ -57,6 +57,16 @@ Then I'll calculate the length of the rides and the day of week.
 Finally, I'll remove the test and inconsistent ride lengths values.
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153856001-3f7f1723-917a-4c27-9914-39863c09078e.png" />
+</p>
+
+
+
+
+
+
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/69009356/153852889-f41265e9-8250-4be0-b04f-636d38ec3b22.png" />
 </p>
 
