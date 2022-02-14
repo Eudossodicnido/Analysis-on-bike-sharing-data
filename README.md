@@ -64,6 +64,14 @@ Finally, I'll remove the test and inconsistent ride lengths values.
 ## 4. Analyze + 5. Share
 
 I will perform the stages togheter, as I will visualise and share the findings as I go through.
+I will perform my analysis by comparing the two groups, since understanding their differences is the goal. Anyway, i will exclude the rides longer than 24 hours, as there is a minority that hugely skew the data.
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153855563-9be991eb-aa04-4dad-86e7-6dc44ce135de.png" />
+</p>
+
+I have used a similar query for the members.
 
 
 
