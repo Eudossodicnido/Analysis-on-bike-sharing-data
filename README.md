@@ -90,7 +90,7 @@ But let's have a broader look.
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69009356/153859093-f3ef5b54-e04e-4146-8247-856fef5456ae.png" />
+  <img src="https://user-images.githubusercontent.com/69009356/153876206-0abea156-5eb6-423e-a11a-7144b35d14b4.png" />
 </p>
 
 We get an immediate confirmation of the chart above.
