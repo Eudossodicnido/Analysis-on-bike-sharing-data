@@ -78,8 +78,9 @@ I will perform my analysis by comparing the two groups, since understanding thei
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69009356/153871672-af579e2a-e552-44ba-998f-040f1ad85b5e.png" />
+  <img src="https://user-images.githubusercontent.com/69009356/153872113-04826ce0-99f1-413e-b7f9-a9ced7893194.png" />
 </p>
+![Dashboard 2(1)]()
 
 
 
