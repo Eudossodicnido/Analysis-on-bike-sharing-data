@@ -26,7 +26,13 @@ Before importing files into SQL Server, I made sure that data are generally cons
 
 - departure and arrival times data with negative values
 - several values that pertain to test 
-- several blanks  (which start to appear from march, so the company might want to inquire why)
+- several blanks (which start to appear from march, so the company might want to inquire why)
+
+I will address all of these issues in the cleaning process. Time to start now.
+For this process I have decided to use SQL Server, as it makes working with excel files easier.
+The first step is putting all the data into a single table. 
+![immagine](https://user-images.githubusercontent.com/69009356/153830950-824c2429-9b2e-41f8-b985-96dcad4c664e.png)
+
 
 ## 4. Analyze
 
