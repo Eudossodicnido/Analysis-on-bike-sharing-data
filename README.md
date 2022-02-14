@@ -82,8 +82,12 @@ I will perform my analysis by comparing the two groups, since understanding thei
 </p>
 
 We can immediatly see that about 2/3 of the rides are from members but the account for about 1/3. 
-But let's have a broader look
-![Dashboard 2(1)]()
+But let's have a broader look.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153856001-3f7f1723-917a-4c27-9914-39863c09078e.png" />
+</p>
+
 
 
 
