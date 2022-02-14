@@ -63,7 +63,7 @@ Finally, I'll remove the test and inconsistent ride lengths values.
 
 ## 4. Analyze + 5. Share
 
-I will perform the stages togheter, as I will visualise the findings.
+I will perform the stages togheter, as I will visualise and share the findings as I go through.
 
 
 
