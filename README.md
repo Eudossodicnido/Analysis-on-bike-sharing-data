@@ -89,11 +89,16 @@ But let's have a broader look.
 </p>
 
 
-
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69009356/153856001-3f7f1723-917a-4c27-9914-39863c09078e.png" />
+  <img src="https://user-images.githubusercontent.com/69009356/153859093-f3ef5b54-e04e-4146-8247-856fef5456ae.png" />
 </p>
+
+We get an immediate confirmation of the chart above.
+We can see that the two groups share a similar pattern (especially from April to December). The main difference regards the winter.
+Memebers are somehow consistent during this season, even though on a descending line (with the peak in April which might be related to COVID, given the fact the data is from 2020), while members are particularly inactive. 
+It is intersting to note that from that from April to August (the peak) the volume of rides increase about 5 times for members while it increases about 12 times for members. 
+
+
 
 
 
