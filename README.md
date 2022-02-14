@@ -60,9 +60,10 @@ Finally, I'll remove the test and inconsistent ride lengths values.
 </p>
 
 
-## 4. Analyze
+## 4. Analyze + 5. Share
 
-## 5. Share
+I will perform the stages togheter, as I will visualise the findings.
+
 
 
 ## 6. Act
