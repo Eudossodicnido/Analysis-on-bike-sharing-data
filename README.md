@@ -40,6 +40,12 @@ The first step is putting all the data into a single table.
   <img src="https://user-images.githubusercontent.com/69009356/153835145-cfdedec4-aa29-42c0-92cb-862fb1b4d301.png" />
 </p>
 
+Now that we have a single table, it's time to make it fit for analysis. I'll first eliminate the null values.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153852205-b4b7ba3f-001b-4f37-88d2-b66cf07a09b6.png" />
+</p>
+
 
 
 ## 4. Analyze
