@@ -99,6 +99,12 @@ Memebers are somehow consistent during this season, even though on a descending 
 It is intersting to note that from that from April to August (the peak) the volume of rides increase about 5 times for members while it increases about 12 times for members. 
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153901145-0b34f84e-f0fa-406e-85d5-f7e1c5988420.png" />
+</p>
+
+
+
 
 
 
