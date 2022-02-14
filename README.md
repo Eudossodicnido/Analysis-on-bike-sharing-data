@@ -78,6 +78,20 @@ I will perform my analysis by comparing the two groups, since understanding thei
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153871672-af579e2a-e552-44ba-998f-040f1ad85b5e.png" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153856001-3f7f1723-917a-4c27-9914-39863c09078e.png" />
+</p>
+
+
+
+
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/69009356/153859093-f3ef5b54-e04e-4146-8247-856fef5456ae.png" />
 </p>
 
