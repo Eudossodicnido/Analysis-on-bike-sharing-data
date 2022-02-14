@@ -36,6 +36,11 @@ The first step is putting all the data into a single table.
   <img src="https://user-images.githubusercontent.com/69009356/153830950-824c2429-9b2e-41f8-b985-96dcad4c664e.png" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153835145-cfdedec4-aa29-42c0-92cb-862fb1b4d301.png" />
+</p>
+
+
 
 ## 4. Analyze
 
