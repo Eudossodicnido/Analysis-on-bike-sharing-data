@@ -40,12 +40,24 @@ The first step is putting all the data into a single table.
   <img src="https://user-images.githubusercontent.com/69009356/153835145-cfdedec4-aa29-42c0-92cb-862fb1b4d301.png" />
 </p>
 
-Now that we have a single table, it's time to make it fit for analysis. I'll first eliminate the null values.
+Now that we have a single table, it's time to make it fit for analysis. 
+I'll first eliminate the null values.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69009356/153852205-b4b7ba3f-001b-4f37-88d2-b66cf07a09b6.png" />
 </p>
 
+Then I'll calculate the length of the rides and the day of week.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153852722-6ab42773-77fd-476c-bf79-1ad277da99c1.png" />
+</p>
+
+Finally, I'll remove the test and inconsistent ride lengths values.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153852889-f41265e9-8250-4be0-b04f-636d38ec3b22.png" />
+</p>
 
 
 ## 4. Analyze
