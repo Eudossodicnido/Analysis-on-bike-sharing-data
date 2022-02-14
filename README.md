@@ -77,6 +77,10 @@ I will perform my analysis by comparing the two groups, since understanding thei
   <img src="https://user-images.githubusercontent.com/69009356/153856001-3f7f1723-917a-4c27-9914-39863c09078e.png" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153859093-f3ef5b54-e04e-4146-8247-856fef5456ae.png" />
+</p>
+
 
 
 
