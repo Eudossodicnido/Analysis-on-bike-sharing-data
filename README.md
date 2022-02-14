@@ -69,6 +69,7 @@ Finally, I'll remove the test and inconsistent ride lengths values.
 
 
 ## 4. Analyze + 5. Share
+### Overview
 
 I will perform the stages togheter, as I will visualise and share the findings as I go through.
 I will perform my analysis by comparing the two groups, since understanding their differences is the goal. Anyway, i will exclude the rides longer than 24 hours, as there is a minority that hugely skew the data.
@@ -103,7 +104,12 @@ It is intersting to note that from that from April to August (the peak) the volu
   <img src="https://user-images.githubusercontent.com/69009356/153901145-0b34f84e-f0fa-406e-85d5-f7e1c5988420.png" />
 </p>
 
+Regarding the average ride lenghts we can also see that members are quite consistent while casual riders tend to have more variation. 
+As hinted by the previous chart we know can see that, averagely, members tend to do use bikes more often and for short rides compared to casual riders that do less rides but quite long ones (around 2 to 4 times longer).
 
+### Seasonality
+It is evident that seasonalisy plays a big role in terms of riding beahviour and for this reason I want to dig deeper in the matter.
+I'll therefore try to analyse data in quarters which roughly correspond to the four seasons.
 
 
 
