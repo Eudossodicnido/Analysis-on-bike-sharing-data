@@ -97,7 +97,7 @@ But let's have a broader look.
 
 
 
-
+### Trips
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69009356/153859093-f3ef5b54-e04e-4146-8247-856fef5456ae.png" />
