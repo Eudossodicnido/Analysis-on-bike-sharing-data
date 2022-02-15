@@ -108,11 +108,27 @@ Regarding the average ride lenghts we can also see that members are quite consis
 As hinted by the previous chart we know can see that, averagely, members tend to do use bikes more often and for short rides compared to casual riders that do less rides but quite long ones (around 2 to 4 times longer).
 
 ### Seasonality
+
 It is evident that seasonalisy plays a big role in terms of riding beahviour and for this reason I want to dig deeper in the matter.
 I'll therefore try to analyse data in quarters which roughly correspond to the four seasons.
+## Winter
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/154130635-e84f7c32-6715-4d1c-be70-5866f911a80f.png" />
+</p>
 
+We can see that members are more active during the central days of the week, while casual riders are more active during the weekend, Sundays in particular.
+In terms of time spent both groups are generally consistent throught the week.
+On top of this, I also want to see what are the most popular routes among the groups.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/154131752-d5a4c064-9d97-4c6c-82c3-4dca7c0b54d4.png" />
+</p>
+
+We can see that the pattern here is quite different.
+Most popular routes for members are in the inner part of the city (first two routes pass trough a university).
+Most popular routes for casual riders are circular rides, that seem to hint to some kind of recreational ride.
 
 ### Trips
 
