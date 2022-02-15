@@ -111,8 +111,8 @@ As hinted by the previous chart we know can see that, averagely, members tend to
 
 It is evident that seasonalisy plays a big role in terms of riding beahviour and for this reason I want to dig deeper in the matter.
 I'll therefore try to analyse data in quarters which roughly correspond to the four seasons.
-## Winter
 
+## Q1 - Winter
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69009356/154130635-e84f7c32-6715-4d1c-be70-5866f911a80f.png" />
@@ -129,6 +129,22 @@ On top of this, I also want to see what are the most popular routes among the gr
 We can see that the pattern here is quite different.
 Most popular routes for members are in the inner part of the city (first two routes pass trough a university).
 Most popular routes for casual riders are circular rides, that seem to hint to some kind of recreational ride.
+
+## Q2 - Spring
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/154133367-5236a314-b72b-4a81-b622-768d0fe19265.png" />
+</p>
+
+In spring we can see a certain peak around the weekend for both groups, which is also reflected by the time spent riding.
+
+<p align="center">
+  <img src="(https://user-images.githubusercontent.com/69009356/154133776-7f2e1409-fdc4-4403-8bcb-abd8de3321ce.png" />
+</p>
+
+
+
+![Dashboard 4])
 
 ### Trips
 
