@@ -149,7 +149,7 @@ Here the pattern seems similar for casual riders while we can see an important p
 ### Q3 - Summer
 
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/69009356/154135031-153c8027-6ae8-4ff8-a930-9d4b655212d8.png" />
+  <img src="https://user-images.githubusercontent.com/69009356/154135031-153c8027-6ae8-4ff8-a930-9d4b655212d8.png" />
 </p>
 
 In the summer we can an incredible increase in terms of volume of rides in both groups.
@@ -157,7 +157,7 @@ Members are still consistent with spikes on wednesday and in the weekend, while 
 Again time spent is line with the with the above mentioned pattern.
 
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/69009356/154136005-1d503599-fa2f-4656-a9f5-3e93f7b16c3a.png" />
+  <img src="https://user-images.githubusercontent.com/69009356/154136005-1d503599-fa2f-4656-a9f5-3e93f7b16c3a.png" />
 </p>
 
 
