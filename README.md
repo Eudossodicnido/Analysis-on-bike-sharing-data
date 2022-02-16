@@ -86,11 +86,6 @@ We can immediatly see that about 2/3 of the rides are from members but the accou
 But let's have a broader look.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69009356/153856001-3f7f1723-917a-4c27-9914-39863c09078e.png" />
-</p>
-
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/69009356/153876206-0abea156-5eb6-423e-a11a-7144b35d14b4.png" />
 </p>
 
