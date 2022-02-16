@@ -196,7 +196,7 @@ To recap we have found the following:
 
 ### Suggestions
 In order to convert casual riders into members my suggestions would be the following:
--As most of the casual riders use the service from Spring to the end of the Summer, I will try to seize that moment for the marketing campaign
--As casual riders tend to ride the most towards the end of the week, they could be offered a "light" membership for the weekend
--Alternatively, given that they seem to enjoy leasure trips they could be offered an "entry level" membership that leverage the sightseeing spots 
--Again, as they tend to ride the longest, they could be offered an "entry level" membership that gives them a discount on a full memebrship afer they have spent a certain amount of time on the app or have done a certain amount of kilometers.
+- As most of the casual riders use the service from Spring to the end of the Summer, I will try to seize that moment for the marketing campaign
+- As casual riders tend to ride the most towards the end of the week, they could be offered a "light" membership for the weekend
+- Alternatively, given that they seem to enjoy leasure trips they could be offered an "entry level" membership that leverage the sightseeing spots e.g. a sightseeing tour membership
+- Again, as they tend to ride the longest, they could be offered an "entry level" membership that gives them a discount on a full memebrship afer they have spent a certain amount of time on the app or have done a certain amount of kilometers.
