@@ -182,9 +182,16 @@ The most popular routes are also the same we observed during Winter.
 To recap we have found the following:
 
 **Members**
+
 - Are active trough all the year with
 - The number of rides and average ride time suggest that they do frequent trips of short distance
 - They tend to have most of the rides during the week in  Winter and Autumn and on the weekends in Spring and Summer
 - Their top routes hint that they use the bike for work/studying purpose troghout the year and for a more recreational purpose during Spring and Summer
-**Casual riders**
 
+**Casual riders**
+- Are active mostly during Spring and Summer
+- The number of rides and average ride time suggest that they don't do frequent trips but when they do they spend an high amount of time
+- They tend to have most of the rides during the end of the week, no matter the season
+- Their top routes hint that they use the bike almost only for a recreational purpose
+
+### Suggestions
