@@ -117,6 +117,13 @@ We can see that members are more active during the central days of the week, whi
 In terms of time spent both groups are generally consistent throught the week.
 On top of this, I also want to see what are the most popular routes among the groups.
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/153855563-9be991eb-aa04-4dad-86e7-6dc44ce135de.png" />
+</p>
+
+I have used a similar query for the members.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69009356/154131752-d5a4c064-9d97-4c6c-82c3-4dca7c0b54d4.png" />
 </p>
@@ -170,11 +177,6 @@ Again time spent is line with the with the above mentioned pattern.
 
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/69009356/153855563-9be991eb-aa04-4dad-86e7-6dc44ce135de.png" />
-</p>
-
-I have used a similar query for the members.
 
 
 
