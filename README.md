@@ -107,7 +107,7 @@ As hinted by the previous chart we know can see that, averagely, members tend to
 It is evident that seasonalisy plays a big role in terms of riding beahviour and for this reason I want to dig deeper in the matter.
 I'll therefore try to analyse data in quarters which roughly correspond to the four seasons.
 
-## Q1 - Winter
+#### Q1 - Winter
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69009356/154130635-e84f7c32-6715-4d1c-be70-5866f911a80f.png" />
@@ -132,7 +132,7 @@ We can see that the pattern here is quite different.
 Most popular routes for members are in the inner part of the city (first two routes pass trough a university).
 Most popular routes for casual riders are circular rides, that seem to hint to some kind of recreational ride as they are mostly close to the coast of lake Michigan.
 
-## Q2 - Spring
+#### Q2 - Spring
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69009356/154133367-5236a314-b72b-4a81-b622-768d0fe19265.png" />
@@ -146,7 +146,7 @@ In spring we can see a certain peak around the weekend for both groups, which is
 
 Here the pattern seems similar for casual riders while we can see an important presence of recreational routes amonng the members, alongside other routes in the inner part of the city.
 
-## Q3 - Summer
+#### Q3 - Summer
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69009356/154135031-153c8027-6ae8-4ff8-a930-9d4b655212d8.png" />
@@ -162,22 +162,21 @@ Again time spent is line with the with the above mentioned pattern.
 
 Popular routes are mostly the same we found in Spring but the figures are way larger.
 
-## Q4 Autumn
+#### Q4 Autumn
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69009356/153859093-f3ef5b54-e04e-4146-8247-856fef5456ae.png" />
+  <img src="https://user-images.githubusercontent.com/69009356/154343213-a19f4475-ef83-4683-afa5-4aba267f9d73.png" />
 </p>
 
+Here the patten seems quite similar to one observed for Winter. 
+Members are generally consistent, peaking during the week (Thursday) while casual riders have most of the rides toward the end of the week (from Friday to Sunday)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/154343475-b5b2bcbb-7ef3-4cc5-b460-8955f22bffeb.png" />
+</p>
 
-
-
-
-
-
-
-
-
-
-
+The most popular routes are also the same we observed during Winter.
 
 ## 6. Act
+### Findings
+To recap 
