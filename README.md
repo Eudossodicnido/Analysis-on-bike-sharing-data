@@ -141,7 +141,7 @@ Most popular routes for casual riders are circular rides, that seem to hint to s
 In spring we can see a certain peak around the weekend for both groups, which is also reflected by the time spent riding.
 
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/69009356/154133776-7f2e1409-fdc4-4403-8bcb-abd8de3321ce.png" />
+  <img src="https://user-images.githubusercontent.com/69009356/154133776-7f2e1409-fdc4-4403-8bcb-abd8de3321ce.png" />
 </p>
 
 Here the pattern seems similar for casual riders while we can see an important presence of recreational routes amonng the members, alongside other routes in the inner part of the city.
