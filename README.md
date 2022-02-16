@@ -162,7 +162,7 @@ Again time spent is line with the with the above mentioned pattern.
 
 Popular routes are mostly the same we found in Spring but the figures are way larger.
 
-#### Q4 Autumn
+#### Q4-Autumn
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69009356/154343213-a19f4475-ef83-4683-afa5-4aba267f9d73.png" />
@@ -179,4 +179,12 @@ The most popular routes are also the same we observed during Winter.
 
 ## 6. Act
 ### Findings
-To recap 
+To recap we have found the following:
+
+**Members**
+- Are active trough all the year with
+- The number of rides and average ride time suggest that they do frequent trips of short distance
+- They tend to have most of the rides during the week in  Winter and Autumn and on the weekends in Spring and Summer
+- Their top routes hint that they use the bike for work/studying purpose troghout the year and for a more recreational purpose during Spring and Summer
+**Casual riders**
+
