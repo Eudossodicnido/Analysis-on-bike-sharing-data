@@ -186,7 +186,7 @@ To recap we have found the following:
 
 **Members**
 
-- Are active through all the year with
+- Are active through all the year with peaks in Spring and Summer
 - The number of rides and average ride time suggest that they do frequent trips of short distance
 - They tend to have most of the rides during the week in  Winter and Autumn and on the weekends in Spring and Summer
 - Their top routes hint that they use the bike for work/studying purposes throughout the year and for a more recreational purpose during Spring and Summer
