@@ -1,5 +1,5 @@
 # Analysis on bike sharing data with SQL and Tableau - Google Data Analytics Professional Certificate - Capstone Project 1 - Cyclistic bike-share case study
-Analysis on the Cyclistic bike-share case study (Google Capstone Project 1)
+Google Data Analytics Professional Certificate - Capstone Project 1 - Cyclistic bike-share case study
 
 ## Introduction
 In this case study, we work for a fictional company, Cyclistic, and we are asked to follow the steps of the data analysis process highlighted during the course: ask, prepare, process, analyze, share, and act.
