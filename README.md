@@ -155,7 +155,7 @@ Here the pattern seems similar for casual riders while we can see an important p
   <img src="https://user-images.githubusercontent.com/69009356/154135031-153c8027-6ae8-4ff8-a930-9d4b655212d8.png" />
 </p>
 
-In the summer we can an incredible increase in terms of the volume of rides in both groups.
+In the summer we can see an incredible increase in terms of the volume of rides in both groups.
 Members are still consistent with spikes on Wednesday and the weekend, while casual riders peak from Friday to Sunday.
 Again time spent is in line with the above-mentioned pattern.
 
