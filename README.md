@@ -2,6 +2,11 @@
 
 Google Data Analytics Professional Certificate - Capstone Project 1 - Cyclistic bike-share case study
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69009356/154549699-5f27cc76-e2ca-4b4e-a702-ff5da9ed5e6d.jpg" />
+</p>
+
+
 ## Introduction
 In this case study, we work for a fictional company, Cyclistic, and we are asked to follow the steps of the data analysis process highlighted during the course: ask, prepare, process, analyze, share, and act.
 
