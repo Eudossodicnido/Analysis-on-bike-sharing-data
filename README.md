@@ -1,4 +1,5 @@
-# Analysis on bike sharing data with SQL and Tableau - Google Data Analytics Professional Certificate - Capstone Project 1 - Cyclistic bike-share case study
+# Analysis on bike sharing data with SQL and Tableau 
+
 Google Data Analytics Professional Certificate - Capstone Project 1 - Cyclistic bike-share case study
 
 ## Introduction
